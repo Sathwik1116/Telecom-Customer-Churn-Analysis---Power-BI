@@ -25,9 +25,6 @@ The analysis focuses on customer demographics, service usage, contract types, bi
   - Billing & contract details
   - Churn status (Yes/No)
 
-Dataset file:  
-`data/WA_Fn-UseC_-Telco-Customer-Churn.csv`
-
 ---
 
 ##  Dashboards
