@@ -29,20 +29,20 @@ The analysis focuses on customer demographics, service usage, contract types, bi
 
 ##  Dashboards
 
-### 1️⃣ Customer Overview & Churn Summary
+#### Customer Overview & Churn Summary
 - Overall churn rate and customer distribution
 - Churn analysis by tenure and senior citizen status
 
-### 2️⃣ Service Usage Impact on Churn
+#### Service Usage Impact on Churn
 - Internet service and add-on impact
 - Relationship between number of services and churn
 
-### 3️⃣ Contract & Billing Analysis
+#### Contract & Billing Analysis
 - Churn by contract type and payment method
 - Monthly vs total charges analysis
 - Paperless billing impact
 
-### 4️⃣ Churn Drivers & Revenue Impact
+#### Churn Drivers & Revenue Impact
 - High-risk churn segments
 - Churn concentration by tenure and contract
 - Revenue loss due to churn
